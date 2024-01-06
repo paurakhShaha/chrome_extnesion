@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#input-el{
+  width: 100%;
+  min-width: 300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+}
+
+#savebtn-el , #tabbtn-el{
+  font-weight: bold;
+  margin-top: 10px;
+  color: white;
+  background:#5f9341 ;
+  border: none;
+}
+ul{
+  padding-left: 0px;
+}
+li{
+ list-style-type: none;
+  padding-left: 0px;
+}
+a{
+  color:#5f9341 ;
+}
+
+#delbtn-el{
+  font-weight: bold;
+  margin-top: 10px;
+  color:#5f9341;
+  background:white ;
+  border: solid 1px #5f9341 ;
+}
